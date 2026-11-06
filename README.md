@@ -4,4 +4,8 @@ The second version of my personal site.
 
 - **Original Site:** [imsoroban/personal-site](https://github.com/imsoroban/personal-site)
 
-Code is licensed under MIT, but I would love to know if anyone uses it.
+---
+
+### License & Support
+
+This project is licensed under the MIT License. If you end up using this code or find it helpful, giving the repository a **star** ⭐ is always greatly appreciated!
